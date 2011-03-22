@@ -1,0 +1,12 @@
+!!! Strict
+%html{ :xmlns => "http://www.w3.org/1999/xhtml" }
+	%head
+		%title
+			= @title || 'César Salazar'
+		%meta{ :'http-equiv' => 'Content-Type', :content => 'text/html; charset=utf-8' }
+		%link{ :href => "http://fonts.googleapis.com/css?family=Pacifico:regular", :rel => "stylesheet", :type => "text/css"}
+		%link{ :href => "http://fonts.googleapis.com/css?family=Ubuntu", :rel => "stylesheet", :type => "text/css"}
+		%link{ :href => "http://fonts.googleapis.com/css?family=Merriweather", :rel => "stylesheet", :type => "text/css"}
+		= yield_content :head
+	%body
+		= yield

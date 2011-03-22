@@ -1,0 +1,41 @@
+@import 'reset', 'palette', 'fonts', 'mixins', 'forms'
+ 
+body
+  font-family: $merriweather
+  font-size: 11pt
+  #content
+    margin-top: 50px
+    margin-bottom: 50px
+    @include centered
+
+h1
+  margin-bottom: 0.5em
+  color: $brand
+  letter-spacing: -0.05em
+  font-size: 4em
+  font-family: $pacifico
+
+h2, h3
+  font-family: $ubuntu
+  color: $gray
+  font-size: 2em
+  margin-bottom: 1em
+  .ampersand
+    font-family:  $pacifico
+    color: $brand
+
+h3
+  font-size: 1.5em
+  
+p, li
+  line-height: 1.7
+  margin-bottom: 1em
+
+a
+  color: $contrast
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+
+li a
+  line-height: 1.7
