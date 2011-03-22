@@ -1,5 +1,6 @@
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-11391700-1']);
+_gaq.push(['_setDomainName', '.cesarsalazar.mx']);
 _gaq.push(['_trackPageview']);
 
 (function() {
