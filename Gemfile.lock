@@ -2,22 +2,7 @@ GEM
   remote: http://rubygems.org/
   remote: http://rubygems.org/
   specs:
-    addressable (2.2.4)
     backports (2.0.2)
-    data_objects (0.10.3)
-      addressable (~> 2.1)
-    dm-core (1.1.0)
-      addressable (~> 2.2.4)
-    dm-do-adapter (1.1.0)
-      data_objects (~> 0.10.2)
-      dm-core (~> 1.1.0)
-    dm-migrations (1.1.0)
-      dm-core (~> 1.1.0)
-    dm-postgres-adapter (1.1.0)
-      dm-do-adapter (~> 1.1.0)
-      do_postgres (~> 0.10.2)
-    do_postgres (0.10.3)
-      data_objects (= 0.10.3)
     haml (3.0.25)
     monkey-lib (0.5.4)
       backports
@@ -45,9 +30,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dm-core
-  dm-migrations
-  dm-postgres-adapter
   haml
   rdiscount
   sass
