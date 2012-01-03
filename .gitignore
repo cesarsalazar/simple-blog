@@ -7,6 +7,10 @@ secret.rb
 *.sqlite
 *.sqlite3
 
+# Compiled stylesheets #
+######################
+*.sassc
+
 # OS generated files #
 ######################
 .DS_Store
