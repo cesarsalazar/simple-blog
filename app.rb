@@ -8,6 +8,10 @@ require 'sass'
 require 'rdiscount'
 require 'nokogiri'
 
+before do
+  cache_control :public, :must_revalidate, :max_age => 600
+end
+
 get '/' do
   haml :index
 end
