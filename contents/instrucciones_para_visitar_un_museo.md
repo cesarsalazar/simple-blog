@@ -3,7 +3,7 @@ __*por César Salazar*__
 
 He observado que la mayoría de las visitas a museos que he hecho terminan con un sabor agridulce. Por un lado, salgo del edificio con la sensación de que ha sido una mañana productiva y que ahora soy una personas más completa. Sin embargo, por otra parte, me cuesta trabajo recordar con claridad lo que vi o sentí.
 
-Lo peor del caso es que en mientras pasa el tiempo, recuerdo menos y menos lo que vi a excepción de dos o tres obras y si acaso una sala.
+Lo peor del caso es que mientras más pasa el tiempo, recuerdo menos y menos lo que vi, a excepción de dos o tres obras y si acaso una sala.
 
 Es por ello que decidí hacer una serie de experimentos y ver si puedo aprovechar mejor mi tiempo. Principalmente me he enfocado en incrementar la calidad y sacrificar la cantidad. Esta idea no es nada nueva y en casi todas las áreas de mi vida en las que la he aplicado, los resultados han sido muy satisfactorios.
 
