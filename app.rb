@@ -25,7 +25,7 @@ get '/observaciones/:article' do
   @content = RDiscount.new( File.open("contents/" + params["article"].gsub("-", "_").concat(".md")).read ).to_html
   doc_title = Nokogiri::HTML::DocumentFragment.parse( @content ).css('h1').inner_html()  
   @title = "#{doc_title} | Observaciones de un explorador, por César Salazar"
-  haml :article
+  haml :single
 end
 
 get '/stylesheets/*' do

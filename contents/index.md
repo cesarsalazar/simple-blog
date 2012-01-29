@@ -1,6 +1,3 @@
-<!-- #### César Salazar -->
-# Observaciones de un explorador
-
 Una antología de ideas, pensamientos, críticas y reflexiones personales sobre los temas de mi interés. Los textos reflejan simplemente mi opinión y de ninguna forma representan la visión de Mexican.VC o de ninguna organización a la que estoy afiliado.
 
 ## Índice de artículos

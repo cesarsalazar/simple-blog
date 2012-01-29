@@ -1,10 +1,12 @@
 - content_for :head do
-  %link{:rel => 'stylesheet', :href => '/stylesheets/article.css', :type => 'text/css'}
-  :javascript
-    $(function(){ $('title').text( $('h1').first().text() + " | César Salazar, Observaciones de un explorador" ); })
+  %link{:rel => 'stylesheet', :href => '/stylesheets/single.css', :type => 'text/css'}
+  %script{:src => "/javascripts/jquery.min.js", :type => "text/javascript"}
+  %script{:src => "/javascripts/single.js", :type => "text/javascript"}
+#header_container
+  #header
+    %h4.blog_title 
+      %a{:href => "/observaciones"} &larr; Observaciones de un explorador
 #content
-  %h4 
-    %a{:href => "/"}Observaciones de un explorador
   %article
     = @content
       

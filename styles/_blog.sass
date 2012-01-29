@@ -1,26 +1,26 @@
 @import 'reset', 'palette', 'fonts', 'mixins', 'forms'
  
 body
-  font: 16px "Noticia Text", serif
-  background: $light_gray url(/images/groovepaper.png)
+  font: 21px "Neuton", serif
+  font-weight: 200
+  color: #000
   color: $black
   
 h1, h2, h3
-  font-family: "Bree Serif", serif
-  letter-spacing: -0.04em
+  font-family: "Abril Fatface", serif
   word-spacing: 0.08em
   line-height: 1
 h1
   font-size: 4em
   margin-bottom: 0.25em
-  color: $brand
+  color: $white
 h2
   font-size: 1.75em
   margin-bottom: 0.5em
-  color: $brand
+  color: $black
   
 p
-  line-height: 1.5
+  line-height: 1.3
   margin-bottom: 1em
 
 ol
@@ -34,15 +34,28 @@ ul
   list-style: circle outside
   li
     padding-left: 1.3em
+
+a
+  color: $contrast
+  text-decoration: none
+  &:hover
+    text-decoration: underline
   
-  
+#header_container
+  background: #000 url(/images/dvsup.png) repeat scroll 0 0 
+  padding-top: 3em
+  padding-bottom: 1em
+  border-bottom: 10px solid $contrast
+  #header
+    @include centered(720px)
+    h1
+      font-size: 4em
+      letter-spacing: -0.02em  
   
 #content
   @include centered(720px)
-  margin-top: 60px
   margin-bottom: 10em
-  padding: 90px 60px
-  @include box-shadow(0px 5px 10px rgba(0,0,0,0.25))
+  padding: 60px
   background: #FFF
   h1
     font-size: 3em
@@ -54,11 +67,7 @@ ul
       font-style: italic
       p
         font-style: normal
-  a
-    color: $brand
-    text-decoration: none
-    &:hover
-      text-decoration: underline
+  
       
   #share
     margin-top: 4em
