@@ -32,8 +32,8 @@ end
 
 get '/:url_to_redirect' do
   status 301
-  urls = { "df" => "http://cesarsalazar.pbworks.com/w/page/24857335/DF",
-           "bio" => "http://cesarsalazar.pbworks.com/w/page/52608776/Bio" }
+  urls = { "df"       => "http://cesarsalazar.pbworks.com/w/page/24857335/DF",
+           "bio"      => "http://cesarsalazar.pbworks.com/w/page/52608776/Bio" }
   urls.each do |url, location|
     redirect location if url == params[:url_to_redirect]
   end
