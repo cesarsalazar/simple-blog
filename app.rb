@@ -37,7 +37,8 @@ get '/:url_to_redirect' do
            "cv"           => "http://cesarsalazar.pbworks.com/w/page/10755048/CV%20Espa%C3%B1ol",
            "bancos"       => "http://cesarsalazar.pbworks.com/w/page/10755043/bancos",
            "oficina"      => "http://g.co/maps/4ergp",
-           "magmarails"   => "https://speakerdeck.com/u/cesarsalazar/p/startuprb" }
+           "magmarails"   => "https://speakerdeck.com/u/cesarsalazar/p/startuprb",
+           "pitch"        => "https://speakerdeck.com/u/cesarsalazar/p/pitch" }
   urls.each do |url, location|
     redirect location if url == params[:url_to_redirect]
   end
