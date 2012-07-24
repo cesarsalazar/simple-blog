@@ -1,65 +1,29 @@
-@import 'reset', 'palette', 'fonts', 'mixins', 'forms'
+@import "global"
  
-body
-  font: 18px "Lora", serif
-  font-weight: 200
-  color: #000
-  color: $black
-  
-h1, h2, h3
-  font-family: "Abril Fatface", serif
-  font-weight: normal
-  word-spacing: 0.08em
-  line-height: 1
 h1
-  font-size: 4em
-  margin-bottom: 0.25em
-  color: $white
-  
-h2
-  font-size: 1.75em
-  margin-bottom: 0.5em
-  color: $black
-  
+  font-size: 3em
+
 p
   line-height: 1.75
   margin-bottom: 1.5em
 
 ol
+  overflow: visible
+  padding: 1.3em
   list-style: decimal outside
-  padding-left: 1.3em
-  li
-    padding-left: 1.3em
   
 ul
-  padding-left: 1.3em
-  list-style: circle outside
-  li
-    padding-left: 1.3em
-
-a
-  color: $contrast
-  text-decoration: none
-  &:hover
-    text-decoration: underline
+  overflow: visible
+  padding: 1.3em
+  list-style: disc outside
   
 #header_container
-  background: #000 url(/images/dvsup.png) repeat scroll 0 0 
+  @include centered(600px)
   padding-top: 3em
   padding-bottom: 1em
-  border-bottom: 10px solid $contrast
-  #header
-    @include centered(720px)
-    h1
-      font-size: 4em
   
 #content
-  @include centered(720px)
-  margin-bottom: 10em
-  padding: 60px
-  background: #FFF
-  h1
-    font-size: 4em
+  text-align: justify
   p, li
     word-spacing: 0.1em
     margin-bottom: 1.2em
@@ -72,7 +36,7 @@ a
   
       
   #share
-    margin-top: 4em
+    margin: 4em 0
     overflow: hidden
     @include centered(100px)
     a 
