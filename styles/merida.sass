@@ -1,0 +1,20 @@
+@import "blog"
+
+body
+	background: $light_gray
+	#content, #header_container
+		@include centered(940px)
+
+h1
+	color: $black
+	text-align: center
+	margin-bottom: 1em
+#story
+	img
+		width: 900px
+		margin-bottom: 1em
+		border: 20px solid $white
+		@include box-shadow
+	p
+		margin-bottom: 1.5em
+		font-size: 1.3em

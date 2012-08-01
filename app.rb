@@ -28,6 +28,10 @@ get '/observaciones/:article' do
   haml :single
 end
 
+get '/merida' do
+  haml :merida
+end
+
 # Redirects
 
 get '/:url_to_redirect' do
