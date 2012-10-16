@@ -5,6 +5,6 @@ Si algo caracteriza a mi círculo de amigos es que, desde una gran diversidad de
 
 Si algo admiro en ellos es lo siguiente. En muchos casos no son los más experimentados, ni los que tienen más conocimientos. En ocasiones, ni siquiera pareciera que tienen las habilidades para construir lo que se han propuesto. Sin embargo, lo que si tienen es el valor de despertarse día con día a trabajar en aquello que les apasiona. Están dispuestos a mirarse en el espejo, observar sus defectos y con todo y ello salir a batallar. No paran de aprender y no tienen miedo a desafiar lo establecido.
 
-Tal vez fracasen repetidamente, pero habrán hecho de su vida lo único que en realidad vale la pena; se habrán conquistado a sí mismos y habrán inspirado a otros.
+Tal vez fracasen repetidamente, pero habrán hecho de su vida lo único que fundamentalmente vale la pena; se habrán conquistado a sí mismos y habrán inspirado a otros.
 
-Aunque uno nunca sabe, quizá tengan éxito y terminen transformando tu vida y la mía.
+Aunque uno nunca sabe, es posible que tengan éxito y transformen significativamente tu vida y la mía.
