@@ -1,6 +1,7 @@
 Una antología de ideas, pensamientos, críticas y reflexiones personales sobre los temas de mi interés. Los textos reflejan simplemente mi opinión y de ninguna forma representan la visión de 500 Startups o de ninguna organización a la que estoy afiliado.
 
 ## Índice de artículos
+- *16/10/2012* [¿Cómo protejo mi idea?](/observaciones/como-protejo-mi-idea)
 - *16/10/2012* [Mis amigos](/observaciones/mis-amigos)
 - *23/07/2012* [Concursos de popularidad](/observaciones/concursos-de-popularidad)
 - *01/05/2012* [Carta abierta a un emprendedor](/observaciones/carta-abierta-a-un-emprendedor)
