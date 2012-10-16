@@ -1,5 +1,5 @@
 # Día de lanzamiento
-__*por César Salazar*__
+__*por [César Salazar](/)*__
 
 Pocos días son tan emocionantes en la vida de una empresa de reciente creación como el día en el que dejas que el mundo conozca lo que has estado cocinando. Esto evidentemente no es una peculiaridad del emprendimiento, sino un punto en común entre los oficios creativos. Publicar un libro, develar una galería o lanzar un cohete al espacio deben ser momentos muy similares (guardando las debidas proporciones).
 

@@ -1,5 +1,5 @@
 # Concursos de popularidad
-__*por César Salazar*__
+__*por [César Salazar](/)*__
 
 Para empezar, doy gracias a The Next Web por cubrir de forma intensiva lo que ocurre en México y Latinoamérica. Tanto [Mexican.VC](http://thenextweb.com/la/2011/10/15/meet-david-weekly-the-nerd-who-loves-people/), como [compañías de nuestro portafolio](http://thenextweb.com/la/2012/01/05/how-the-mexican-yelp-conekta-mx-managed-to-list-over-1-million-businesses/) se han visto beneficiadas con su trabajo. También agradezco que exista una preocupación, asumo que auténtica, por descubrir cuales son las startups más interesantes que están saliendo de la región. Sin embargo, no dejaré pasar la oportunidad de decirles que, desde mi punto de vista, están cometiendo un error importante. 
 

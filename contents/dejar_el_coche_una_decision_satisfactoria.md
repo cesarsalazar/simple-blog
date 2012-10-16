@@ -1,5 +1,5 @@
 # Dejar el coche, una decisión satisfactoria
-__*por César Salazar*__
+__*por [César Salazar](/)*__
 
 Han pasado ya más de cuatro meses desde que decidí vender mi coche y hoy quiero aprovechar para compartir las razones de haberlo hecho.
 

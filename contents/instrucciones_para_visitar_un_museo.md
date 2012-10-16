@@ -1,5 +1,5 @@
 # Instrucciones para visitar un museo
-__*por César Salazar*__
+__*por [César Salazar](/)*__
 
 He observado que la mayoría de las visitas a museos que he hecho terminan con un sabor agridulce. Por un lado, salgo del edificio con la sensación de que ha sido una mañana productiva y que ahora soy una persona más completa. Sin embargo, por otra parte, me cuesta trabajo recordar con claridad lo que vi o sentí.
 
