@@ -1,7 +1,7 @@
 @import "global"
- 
+
 h1
-  font-size: 3em
+  font-size: 2em
 
 p
   line-height: 1.75
@@ -18,23 +18,41 @@ ul
   list-style: disc outside
   
 #header_container
-  @include centered(600px)
-  padding-top: 3em
+  @include centered(720px)
   padding-bottom: 1em
-  
+  padding-top: 1em
+  background: $gray
+  border-top: 10px solid $brand
+  padding: 2em
+  #header
+    h4.blog_title
+      font-size: 1em
+      margin-bottom: 2em
+      font-weight: 200
+      color: #FFF
+      a
+        color: darken($light_gray,20%)
+        text-decoration: none
+        &:hover
+          text-decoration: none
+          color: darken($light_gray, 30%)
+
 #content
-  text-align: justify
+  padding: 2em
+  background: $white
+  border: 1px solid #EEE
+  text-align: left
   p, li
-    word-spacing: 0.1em
     margin-bottom: 1.2em
     line-height: 1.5
+  li
+    margin-bottom: 0.6em
   ol
     li
       font-style: italic
       p
         font-style: normal
-  
-      
+        
   #share
     margin: 4em 0
     overflow: hidden

@@ -1,12 +1,14 @@
 @import "blog"
 
-#content
+body
+  background: #FAFAFA
 
+#content
   h2
     margin-top: 1em
     color: $black
   ul
-    padding-left: 0
+    padding: 0
     li
       list-style: none
       padding-left: 0
@@ -15,7 +17,7 @@
         display: block
         float: left
         width: 6em
-        color: $gray
+        color: darken($gray,20)
         font-size: 0.75em
         margin-top: 0.5em
       a

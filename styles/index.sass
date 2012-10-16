@@ -1,9 +1,30 @@
 @import 'global'
 
+h1
+  margin-bottom: 0.25em
+
+#header
+  border-top: 10px solid $brand
+  @include centered(720px)
+  background: $gray url("/images/mentoring.jpg") no-repeat 0 0
+  padding: 2em
+  padding-top: 275px
+  h1
+    padding-top: 0.5em
+  h2
+    margin-bottom: 0
+
 #content
-  margin-top: 2em
+  padding: 2em
+  background: $white
+  border: 1px solid $gray
 #links
-  margin-top: 2em
+  padding: 2em
+  @include centered(720px)
+  margin-bottom: 2em
+  h3
+    margin-bottom: 1em
+    font-size: 1em
   ul
     @include horizontal-list
     li
@@ -11,9 +32,10 @@
       text-indent: 40px
       height: 30px
       line-height: 30px
-      margin-right: 60px
+      margin-right: 1.5em
       a
         line-height: 30px
+
 li.angellist
   background: transparent url(/images/angellist_30px.png) no-repeat scroll 0 50%
 

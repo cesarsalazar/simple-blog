@@ -4,27 +4,32 @@ body
   font-family: $base_sans
   font-size: 18px
   font-weight: 300
+  color: $black
+  background: $light_gray url(/images/subtle_dots.png) repeat 0 0
+
 #content
-  @include centered(600px)
+  @include centered(720px)
 
 h1
-  margin-bottom: 0.25em
-  font-weight: 800
-  color: $brand
+  font-weight: 300
+  color: $black
   font-size: 3.5em
   line-height: 1
-  letter-spacing: -0.06em
+  letter-spacing: -0.03em
+  text-transform: uppercase
 
 h2
   font-weight: 300
-  font-size: 1.5em
+  font-size: 1.4em
   line-height: 1.2
   margin-bottom: 0.75em
+  text-transform: uppercase
 
 h3
   font-weight: 300
   font-size: 1.25em
   margin-bottom: 0.5em
+  text-transform: uppercase
   
 p, li
   line-height: 1.5
