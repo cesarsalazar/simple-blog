@@ -36,13 +36,14 @@ end
 
 get '/:url_to_redirect' do
   status 301
-  urls = { "df"           => "http://cesarsalazar.pbworks.com/w/page/24857335/DF",
-           "bio"          => "http://cesarsalazar.pbworks.com/w/page/52608776/Bio",
-           "cv"           => "http://cesarsalazar.pbworks.com/w/page/10755048/CV%20Espa%C3%B1ol",
-           "bancos"       => "http://cesarsalazar.pbworks.com/w/page/10755043/bancos",
-           "oficina"      => "http://g.co/maps/4ergp",
-           "magmarails"   => "https://speakerdeck.com/u/cesarsalazar/p/startuprb",
-           "pitch"        => "https://speakerdeck.com/u/cesarsalazar/p/pitch" }
+  urls = { "df"               => "http://cesarsalazar.pbworks.com/w/page/24857335/DF",
+           "bio"              => "http://cesarsalazar.pbworks.com/w/page/52608776/Bio",
+           "cv"               => "http://cesarsalazar.pbworks.com/w/page/10755048/CV%20Espa%C3%B1ol",
+           "bancos"           => "http://cesarsalazar.pbworks.com/w/page/10755043/bancos",
+           "oficina"          => "http://g.co/maps/4ergp",
+           "magmarails"       => "https://speakerdeck.com/u/cesarsalazar/p/startuprb",
+           "pitch"            => "https://speakerdeck.com/u/cesarsalazar/p/pitch",
+           "my-neigborhood"   => "http://goo.gl/maps/EzQuI" }
   urls.each do |url, location|
     redirect location if url == params[:url_to_redirect]
   end
