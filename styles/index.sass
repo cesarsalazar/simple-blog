@@ -1,6 +1,9 @@
 @import "blog"
 
+#header_container
+  width: 720px
 #content
+  width: 720px
   h2
     margin-top: 1em
     color: $black
@@ -24,5 +27,6 @@
         &:hover
           text-decoration: underline
 
-
-
+@media screen and (max-device-width: 480px)
+  #header_container
+    width: 100%

@@ -1,6 +1,4 @@
-Una antología de ideas, pensamientos, críticas y reflexiones personales sobre los temas de mi interés. Los textos reflejan simplemente mi opinión y de ninguna forma representan la visión de 500 Startups o de ninguna organización a la que estoy afiliado.
-
-## Índice de artículos
+- *22/11/2012* [Key Igniting Observations](/observations/key-igniting-observations) 
 - *16/10/2012* [¿Cómo protejo mi idea?](/observaciones/como-protejo-mi-idea)
 - *16/10/2012* [Mis amigos](/observaciones/mis-amigos)
 - *23/07/2012* [Concursos de popularidad](/observaciones/concursos-de-popularidad)
@@ -10,3 +8,5 @@ Una antología de ideas, pensamientos, críticas y reflexiones personales sobre 
 - *22/09/2010* [Sin tomar el manubrio](/observaciones/sin-tomar-el-manubrio)
 - *30/06/2010* [Dejar el coche, una decisión satisfactoria](/observaciones/dejar-el-coche-una-decision-satisfactoria)
 - *05/07/2010* [Libros determinantes](/observaciones/libros-determinantes)
+
+The views expressed here are my own and do not necessarily represent the views of 500 Startups or any other organization.

@@ -2,7 +2,7 @@
  
 body
   font-family: $base_sans
-  font-size: 18px
+  font-size: 16px
   font-weight: 300
   color: $black
   background: $light_gray url(/images/subtle_dots.png) repeat 0 0
@@ -13,7 +13,7 @@ body
 h1
   font-weight: 300
   color: $black
-  font-size: 3.5em
+  font-size: 2.8em
   line-height: 1
   letter-spacing: -0.03em
   text-transform: uppercase
@@ -27,7 +27,7 @@ h2
 
 h3
   font-weight: 300
-  font-size: 1.25em
+  font-size: 1.2em
   margin-bottom: 0.5em
   text-transform: uppercase
   
@@ -47,11 +47,17 @@ li a
 @media screen and (max-device-width: 480px)
   body
     background: transparent
+  h1
+    font-size: 4em !important 
   #content
-    width: 100%
+    width: 100% !important
     margin-top: 0
     margin-bottom: 0
     font-size: 2em
-    padding: 1em
+    padding: 1em  
     p, li
-      font-size: 1.2em
+      font-size: 1.5em !important
+  .aside
+    margin-top: 2em
+    display: none
+    @include clearfix

@@ -39,7 +39,8 @@ strong
       margin-right: 15px
       a
         line-height: 48px
-        font-size: 15px
+        font-size: 0.8em
+        font-weight: 400
         text-transform: uppercase
         &:hover
           text-decoration: none
@@ -59,4 +60,27 @@ li.github
   
 li.blog
   background: transparent url(/images/icons/blog.png) no-repeat scroll 0 50%
-  
+
+@media screen and (max-device-width: 480px)
+  #header, #links 
+    @include centered(100%)
+  #header
+    background-size: 100%
+    padding-top: 400px
+    h1
+      font-size: 4em
+    h2
+      font-size: 2em
+  #content
+    padding: 1em 
+  #links
+    h3
+      margin-bottom: 2em
+      font-size: 3em 
+    ul 
+      li
+        display: block 
+        margin-bottom: 1.5em
+        a
+          font-size: 2.5em
+          font-weight: 300

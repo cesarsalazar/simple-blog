@@ -1,6 +1,6 @@
 $(function(){
   
-  $(function(){ $('title').text( $('h1').first().text() + " | César Salazar, Observaciones de un explorador" ); })
+  $(function(){ $('title').text( $('h1').first().text() + " by @cesarsalazar" ); })
   
   $("h1").appendTo("#header");
   
