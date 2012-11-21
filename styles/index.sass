@@ -1,62 +1,28 @@
-@import 'global'
-
-h1
-  margin-bottom: 0.25em
-
-strong
-  font-weight: 300
-  color: $brand
-
-#header
-  border-top: 10px solid $brand
-  @include centered(720px)
-  background: $gray url("/images/mentoring.jpg") no-repeat 0 0
-  padding: 2em
-  padding-top: 275px
-  h1
-    padding-top: 0.5em
-  h2
-    margin-bottom: 0
+@import "blog"
 
 #content
-  padding: 2em
-  background: $white
-  border: 1px solid $gray
-#links
-  padding: 2em
-  @include centered(720px)
-  margin-bottom: 2em
-  h3
-    margin-bottom: 1em
-    font-size: 1em
+  h2
+    margin-top: 1em
+    color: $black
   ul
-    @include horizontal-list
+    padding: 0
     li
-      display: inline-block
-      text-indent: 58px
-      height: 48px
-      line-height: 48px
-      margin-right: 15px
+      list-style: none
+      padding-left: 0
+      margin-bottom: 1em
+      em
+        display: block
+        float: left
+        width: 6em
+        color: darken($gray,20)
+        font-size: 0.75em
+        margin-top: 0.5em
       a
-        line-height: 48px
-        font-size: 15px
-        text-transform: uppercase
+        display: block
+        overflow: hidden
+        text-decoration: none
         &:hover
-          text-decoration: none
-          color: $black
+          text-decoration: underline
 
-li.angellist
-  background: transparent url(/images/icons/angellist.png) no-repeat scroll 0 50%
 
-li.twitter
-  background: transparent url(/images/icons/twitter.png) no-repeat scroll 0 50%
 
-li.linkedin
-  background: transparent url(/images/icons/linkedin.png) no-repeat scroll 0 50%
-
-li.github
-  background: transparent url(/images/icons/github.png) no-repeat scroll 0 50%
-  
-li.blog
-  background: transparent url(/images/icons/blog.png) no-repeat scroll 0 50%
-  

@@ -13,19 +13,23 @@ before do
 end
 
 get '/' do
-  haml :index
+  haml :home
 end
 
-get '/observaciones' do
-  @index = RDiscount.new( File.open("contents/index.md").read ).to_html
-  haml :articles
+['/observations', '/observaciones'].each do |path|
+  get path do
+    @index = RDiscount.new( File.open("contents/index.md").read ).to_html
+    haml :index
+  end
 end
 
-get '/observaciones/:article' do
-  @content = RDiscount.new( File.open("contents/" + params["article"].gsub("-", "_").concat(".md")).read ).to_html
-  doc_title = Nokogiri::HTML::DocumentFragment.parse( @content ).css('h1').inner_html()  
-  @title = "#{doc_title} | Observaciones de un explorador, por César Salazar"
-  haml :single
+['/observations/:article', '/observaciones/:article'].each do |path|
+  get path do
+    @content = RDiscount.new( File.open("contents/" + params["article"].gsub("-", "_").concat(".md")).read ).to_html
+    doc_title = Nokogiri::HTML::DocumentFragment.parse( @content ).css('h1').inner_html()  
+    @title = "#{doc_title} | Observaciones de un explorador, por César Salazar"
+    haml :single
+  end
 end
 
 get '/merida' do
