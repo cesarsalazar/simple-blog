@@ -1,5 +1,4 @@
 # Sin tomar el manubrio
-__*por [César Salazar](/)*__
 
 Como es bien sabido por varios de ustedes, son ya varios meses desde que [dejé mi auto](/observaciones/dejar-el-coche-una-decision-satisfactoria) y comencé a moverme por la ciudad con mis propios pies. Si se lo preguntan, creo que ha sido una de las 5 mejores decisiones de mi vida.
 

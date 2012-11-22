@@ -1,5 +1,4 @@
 # ¿Cómo protejo mi idea?
-__*por [César Salazar](/)*__
 
 (originalmente escrito en [Noticias Hacker](http://www.noticiashacker.com/noticia/ag5ub3RpY2lhc2hhY2tlcnIMCxIEUG9zdBixpgEM))
 

@@ -1,5 +1,4 @@
 # Libros determinantes
-__*por [César Salazar](/)*__
 
 Este “ensayo” es quizá sea uno de los más sencillo que he hecho y sin embargo es el que potencialmente engloba una mayor cantidad (y calidad) en su contenido.
 

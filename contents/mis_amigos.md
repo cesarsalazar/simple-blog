@@ -1,5 +1,4 @@
 # Mis amigos
-__*por [César Salazar](/)*__
 
 Si algo caracteriza a mi círculo de amigos es que, desde una gran diversidad de frentes, están intentando cosas muy difíciles. No hablo de disparates como lograr la paz mundial o eliminar la pobreza en el mundo. Me refiero a proyectos factibles pero sumamente complejos e improbables, y que de lograrse tendrían un impacto tremendo en la vida de miles o millones de personas. 
 
