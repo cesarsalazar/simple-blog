@@ -1,4 +1,4 @@
-<!-- - *22/11/2012* [Key Igniting Observations](/observations/key-igniting-observations)  -->
+- *22/11/2012* [Key Igniting Observations](/observations/key-igniting-observations) 
 - *16/10/2012* [¿Cómo protejo mi idea?](/observaciones/como-protejo-mi-idea)
 - *16/10/2012* [Mis amigos](/observaciones/mis-amigos)
 - *23/07/2012* [Concursos de popularidad](/observaciones/concursos-de-popularidad)
