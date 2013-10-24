@@ -2,9 +2,11 @@
 
 En las últimos meses he viajado y observado de cerca lo que ocurre en ciudades como México, Bogotá, Santiago, Buenos Aires y Madrid. Han sido visitas magníficas y he logrado conectar con decenas de emprendedores e inversores de primera. Sin embargo, recurrentemente me encuentro con una situación que considero bastante dañina. La mayoría de la gente en estos ecosistemas de innovación está frustrada porque aún están lejos de siquiera parecerse a Silicon Valley.
 
+![Insightful cat is insigthful](/images/contents/artists.jpg "Insightful cat is insigthful")
+
 La idea de poder replicar el éxito del Área de la Bahía de San Francisco es una que constantemente se menciona en foros, prensa y conversaciones cotidianas. Principalmente aquellos que no han visitado la zona, asumen que se puede copiar y que los esfuerzos deben estar enfocados a construir el "Silicon Valley Mexicano" o el "Silicon Valley Colombiano". Sin embargo, no podrían estar más errados.
 
-## Silicon Valley se ha gestado por más de 150 años
+## Roma no se construyó en un día
 
 Es importante subrayar que Silicon Valley es un accidente. Para entenderlo hace falta mucho más que mirar a la Universidad de Stanford, los fondos de venture capital de Sand Hill Road o las instalaciones de desarrollo de tecnología militar de mediados del siglo pasado. 
 
@@ -18,7 +20,7 @@ La mentalidad pionera sobrevivió a través de más de un siglo y alcanzó a imp
 
 Por si esto fuera poco, en la década de los sesenta la ciudad de San Francisco vivió uno de los movimientos sociales más importantes de la historia. En sus calles y parques comenzaron a reunirse grandes grupos de representantes del movimiento hippie. Los ideales de apertura, libertad y vida en comunidad de este grupo marcaron fuertemente la cultura de la zona. En parte es gracias a estas ideas que en Silicon Valley se vive un ambiente de colaboración tan único, y que daría vida a ideas como el software libre y de código abierto, las desconferencias o los hackathons.
 
-## La Florencia Renacentista también fue única.
+## Florencia también fue única
 
 Esta no es la primera vez en la historia que ocurre un fenómeno similar. Si regresamos algunos milenios podemos pensar en ciudades como Mesopotamia, Atenas, Roma, Constantinopla, Florencia, París o Londres. Cada una de estas ciudades en algún momento fue el epicentro intelectual de nuestra civilización. 
 
@@ -32,13 +34,13 @@ Lo anterior, sólo para recalcar el papel que juega hoy Silicon Valley en la his
 
 Sin embargo, esto no será así para siempre. La Internet un día será tan común como la energía eléctrica o la escritura y el mundo girará en torno a otras ideas.
 
-## Silicon Valley está formado por lo mejor del mundo
+## Todos los caminos llevan a Roma
 
 No quiero pasar por algo otro elemento importante en esta historia. Silicon Valley no representa la realidad de los Estados Unidos y tampoco está formado demográficamente por gente nacida en California. Debido a su tremenda fuerza de gravedad, la región atrae a muchas de las personas más talentosas y ambiciosas de nuestra generación. Un día en Silicon Valley significa convivir no sólo con gente proveniente de todo el país sino de todo el mundo. Son muy raras las nacionalidades, acentos e ideologías que no están representadas.
 
 La región es de lo más diversa y heterogénea, cosa que resulta en el hecho de que no hay una sóla mentalidad de Silicon Valley, sino una mezcla de ideas que generan como consecuencia un altísimo grado de innovación.
  
-## Si hay que copiar algo es el estado mental
+## Donde fueres haz lo que vieres
 
 En conclusión, no todo es aceptar que Silicon Valley nunca podrá ser replicado. Si bien esta estructura social es un fenómeno único de la región, también es importante reconocer que Silicon Valley puede ser un estado mental.
 
