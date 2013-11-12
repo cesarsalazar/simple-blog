@@ -47,7 +47,7 @@ get '/:url_to_redirect' do
            "oficina"          => "http://g.co/maps/4ergp",
            "magmarails"       => "https://speakerdeck.com/u/cesarsalazar/p/startuprb",
            "pitch"            => "https://speakerdeck.com/u/cesarsalazar/p/pitch",
-           "neighborhood"  => "http://goo.gl/maps/EzQuI" }
+           "neighborhood"     => "http://goo.gl/maps/EzQuI" }
   urls.each do |url, location|
     redirect location if url == params[:url_to_redirect]
   end
